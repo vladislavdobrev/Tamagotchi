@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tamagotchi.Model", "Tamagotchi.Model\Tamagotchi.Model.csproj", "{79470F0D-6ADF-4C9C-A16B-A03C44536FA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tamagotchi.Data", "Tamagotchi.Data\Tamagotchi.Data.csproj", "{E9F750D7-756B-40BD-8A82-2A5F5BE288D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tamagotchi.WebApi", "Tamagotchi.WebApi\Tamagotchi.WebApi.csproj", "{7C090C72-0F0D-43D7-B67D-F73C47F64C2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79470F0D-6ADF-4C9C-A16B-A03C44536FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79470F0D-6ADF-4C9C-A16B-A03C44536FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79470F0D-6ADF-4C9C-A16B-A03C44536FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79470F0D-6ADF-4C9C-A16B-A03C44536FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9F750D7-756B-40BD-8A82-2A5F5BE288D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9F750D7-756B-40BD-8A82-2A5F5BE288D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9F750D7-756B-40BD-8A82-2A5F5BE288D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9F750D7-756B-40BD-8A82-2A5F5BE288D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C090C72-0F0D-43D7-B67D-F73C47F64C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C090C72-0F0D-43D7-B67D-F73C47F64C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C090C72-0F0D-43D7-B67D-F73C47F64C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C090C72-0F0D-43D7-B67D-F73C47F64C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

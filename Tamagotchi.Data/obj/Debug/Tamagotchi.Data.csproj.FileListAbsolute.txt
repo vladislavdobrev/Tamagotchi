@@ -1,0 +1,10 @@
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\TamagotchiApi\Tamagotchi.Data\bin\Debug\Tamagotchi.Data.dll.config
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\TamagotchiApi\Tamagotchi.Data\bin\Debug\Tamagotchi.Data.dll
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\TamagotchiApi\Tamagotchi.Data\bin\Debug\Tamagotchi.Data.pdb
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\TamagotchiApi\Tamagotchi.Data\bin\Debug\EntityFramework.dll
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\TamagotchiApi\Tamagotchi.Data\bin\Debug\Tamagotchi.Model.dll
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\TamagotchiApi\Tamagotchi.Data\bin\Debug\Tamagotchi.Model.pdb
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\TamagotchiApi\Tamagotchi.Data\bin\Debug\EntityFramework.xml
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\TamagotchiApi\Tamagotchi.Data\obj\Debug\Tamagotchi.Data.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\TamagotchiApi\Tamagotchi.Data\obj\Debug\Tamagotchi.Data.dll
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\TamagotchiApi\Tamagotchi.Data\obj\Debug\Tamagotchi.Data.pdb
