@@ -167,7 +167,7 @@ namespace Tamagotchi.WebApi.Controllers
         {
             if (authCode == null || authCode.Length != Sha1Length)
             {
-                throw new ArgumentOutOfRangeException("Password should be encrypted");
+                throw new ArgumentOutOfRangeException("Password should be encrypted.");
             }
         }
 
@@ -175,18 +175,18 @@ namespace Tamagotchi.WebApi.Controllers
         {
             if (username == null)
             {
-                throw new ArgumentNullException("Username cannot be null");
+                throw new ArgumentNullException("Username cannot be null.");
             }
             else if (username.Length < MinUsernameLength)
             {
                 throw new ArgumentOutOfRangeException(
-                    string.Format("Username must be at least {0} characters long",
+                    string.Format("Username must be at least {0} characters long.",
                         MinUsernameLength));
             }
             else if (username.Length > MaxUsernameLength)
             {
                 throw new ArgumentOutOfRangeException(
-                    string.Format("Username must be less than {0} characters long",
+                    string.Format("Username must be less than {0} characters long.",
                         MaxUsernameLength));
             }
             else if (username.Any(ch => !ValidUsernameCharacters.Contains(ch)))
